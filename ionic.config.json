@@ -1,0 +1,7 @@
+{
+  "name": "thirdapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
